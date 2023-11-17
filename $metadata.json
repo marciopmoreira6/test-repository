@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "global",
-    "alias",
-    "component"
+    "Color Mode/light",
+    "Color Mode/dark"
   ]
 }

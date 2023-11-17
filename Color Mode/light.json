@@ -1,0 +1,14 @@
+{
+  "bg": {
+    "bg-default": {
+      "value": "{color.blue.500}",
+      "type": "color"
+    }
+  },
+  "fg": {
+    "text-default": {
+      "value": "{color.white}",
+      "type": "color"
+    }
+  }
+}
