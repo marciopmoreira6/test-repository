@@ -1,1 +1,7 @@
-{}
+{
+  "blue500": {
+    "value": "#0386FF",
+    "type": "color",
+    "description": "This color is the primary one"
+  }
+}

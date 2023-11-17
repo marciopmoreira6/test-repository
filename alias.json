@@ -1,0 +1,7 @@
+{
+  "bg-primary": {
+    "value": "{blue500}",
+    "type": "color",
+    "description": "Used in primary buttons"
+  }
+}
