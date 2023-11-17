@@ -3,5 +3,10 @@
     "value": "{blue500}",
     "type": "color",
     "description": "Used in primary buttons"
+  },
+   "bg-secondary": {
+    "value": "{blue500}",
+    "type": "color",
+    "description": "Used in primary buttons"
   }
 }
